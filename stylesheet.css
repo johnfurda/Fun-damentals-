@@ -7,7 +7,7 @@ body {
 #navbar {
     position: fixed;
     top:20px;
-    left:100%;
+    left:50%;
     margin-left:-400px;
 }
 
