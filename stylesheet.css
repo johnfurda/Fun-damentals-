@@ -2,13 +2,13 @@ body {
      text-align: center;
      background: black;
      color: white;
-     font-family: Helvetica;
+     font-family: futura;
 }
 #navbar {
     position: fixed;
     top:10px;
     left:50%;
-    margin-left:-254px;
+    margin-center:-254px;
 }
 
 #header {
@@ -30,41 +30,6 @@ li {
     padding: 5px;
     border-radius: 5px 5px;
     background-color: #cc0323
-}
-
-#left{
-    width: 45%;
-    float: left;
-}
-
-p {
-    font-family: Tahoma;
-    font-size: 1em;
-}
-
-#right{
-    width: 45%;
-    float: right;
-}
-
-
-
-#bottom_left{
-    border-bottom-left-radius: 15px;
-}
-
-#bottom_right{
-    border-bottom-right-radius: 15px;
-}
-
-#footer{
-    clear: both;
-    position: relative;
-    bottom: -20px;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    height: 75px;
-    background-color: #3c4543;
 }
 
 #button{
