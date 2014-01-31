@@ -32,34 +32,6 @@ li {
     background-color: #cc0323
 }
 
-#button{
-    border: 2px solid #000000;
-    float:left;
-    position: relative;
-    left: 229px;
-    bottom: -20px;
-    border-radius: 5px;
-    background-color: #cc0323;
-    height: 30px;
-    width: 150px;
-    
-}
-
-#button p{
-    position: relative;
-    bottom: 10px;
-    font-size: 0.8em;
-    color: #acd1b2;
-    text-align: center;
-}
-
-.bold{
-    font-family: tahoma;
-    font-weight: bold;
-    font-size: 1.2em;
-    font-variant: small-caps;
-    color: #ffffff;
-}
 p {
          font-size: 24px;
 }
