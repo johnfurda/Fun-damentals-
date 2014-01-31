@@ -1,5 +1,8 @@
 body {
+     text-align: center;
      background: black;
+     color: white;
+     font-family: Futura;
 }
 #navbar {
     position: fixed;
