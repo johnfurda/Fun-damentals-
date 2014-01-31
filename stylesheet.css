@@ -2,18 +2,18 @@ body {
      text-align: center;
      background: black;
      color: white;
-     font-family: futura;
+     font-family: Futura;
 }
 #navbar {
     position: fixed;
-    top:10px;
-    left:50%;
+    top:20px;
+    left:100%;
     margin-left:-400px;
 }
 
 #header {
     position: relative;
-    top: 20px;
+    top: 70px;
 }
 
 ul{
