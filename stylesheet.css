@@ -32,14 +32,11 @@ li {
 }
 
 p {
-         font-size: 24px;
+         font-size: 2gm;
+         font-family: Futura;
 }
 input {
         border: 0;
         padding: 12px;
         font-size: 18px;
-}
-
-body {
-    text-align: center; 
 }
