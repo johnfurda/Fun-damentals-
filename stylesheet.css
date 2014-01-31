@@ -1,8 +1,5 @@
 body {
-     text-align: center;
      background: black;
-     color: white;
-     font-family: Futura;
 }
 #navbar {
     position: fixed;
@@ -30,10 +27,16 @@ li {
     padding: 5px;
     border-radius: 5px 5px;
 }
+h1 {
+    font-family: Futura, Tahoma, sans-serif;
+    font-size: 4gm;
+    text-align: center;
+}
 
 p {
          font-size: 2gm;
-         font-family: Futura;
+         font-family: Futura,tahoma, sans-serif;
+         text-align: center;
 }
 input {
         border: 0;
