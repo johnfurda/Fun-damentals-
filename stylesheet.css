@@ -49,7 +49,14 @@ a {
      text-decoration: none;
      color: white;
 }
-img {
-    position: left;
+#box1 {
+    position: relative;
+    margin-left: 50%;
+    background-color: #333333;
+}
+#box2 {
+    position: relative;
+    margin-right: 50%;
+    background-color: #cc3300
 }
 
