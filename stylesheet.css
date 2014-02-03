@@ -56,13 +56,13 @@ a {
     margin: auto;
 }
 #box1 {
-    width: 100px;
+    width: 50%px;
     float: left;
     height: 300px;
-        background-color: blue;
+    background-color: blue;
 }
 #box2 {
-    width: 200px;
+    width: 50%;
     float: left;
     height: 300px;
     background-color: green;
