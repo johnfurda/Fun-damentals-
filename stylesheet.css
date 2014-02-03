@@ -9,11 +9,15 @@ body {
     top:20px;
     left:50%;
     margin-left:-180px;
+
 }
 
 #header {
     position: relative;
     top: 70px;
+    border-radius: 5px
+    border: none;
+    background-color: 330000;
 }
 
 ul{
