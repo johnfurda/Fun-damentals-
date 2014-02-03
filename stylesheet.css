@@ -9,7 +9,6 @@ body {
     top: 70px;
     height: 100px;
     width: 100%;
-    background-color: #333333;
 }
 #navbar {
     position: fixed;
@@ -38,7 +37,8 @@ li {
 h2 {
     font-family: Arial, Tahoma, sans-serif;
     font-size: 4gm;
-    text-align: center;
+    text-align: right;
+    position: right;
 }
 
 p {
@@ -49,5 +49,8 @@ p {
 a {
      text-decoration: none;
      color: white;
+}
+image {
+    position: left;
 }
 
