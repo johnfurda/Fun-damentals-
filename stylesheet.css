@@ -10,12 +10,12 @@ body {
     top: 1px;
     height: 100px;
     width: 100%;
-    background-color: #993300;
+    background-color: #9663300;
     border-radius: 5px
 }
 #navbar {
     position: fixed;
-    top:80px;
+    top:60px;
     left:50%;
     margin-left:-180px;
 }       
