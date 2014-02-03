@@ -8,7 +8,7 @@ body {
     position: fixed;
     top:20px;
     left:50%;
-    margin-left: auto;
+    margin-left:-180px;
     background-color: #330000;
     border-radius: 5px;
 
@@ -29,9 +29,11 @@ li {
     display: inline;
     border: 2px solid #000000;
     font-family: Futura, Tahoma, sans-serif;
-    color: ##8C001A;
+    color: #8C001A;
     padding: 5px;
     border-radius: 5px 5px;
+    background-color: #330000;
+    text-decoration: none;
 }
 h2 {
     font-family: Futura, Tahoma, sans-serif;
