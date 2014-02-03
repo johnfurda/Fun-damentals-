@@ -33,7 +33,6 @@ li {
     padding: 5px;
     border-radius: 5px 5px;
     background-color: #330000;
-    text-decoration: none;
 }
 h2 {
     font-family: Futura, Tahoma, sans-serif;
@@ -45,5 +44,9 @@ p {
          font-size: 2gm;
          font-family: Futura,tahoma, sans-serif;
          text-align: center;
+}
+a {
+     text-decoration: none;
+     color: white;
 }
 
