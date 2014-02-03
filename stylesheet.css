@@ -53,10 +53,15 @@ a {
     position: relative;
     margin-left: 50%;
     background-color: #333333;
+    height: 300px;
+    width: 300px;
 }
 #box2 {
     position: relative;
     margin-right: 50%;
-    background-color: #cc3300
+    background-color: #cc3300;
+    height:100%;
+    width: 300px;
+
 }
 
