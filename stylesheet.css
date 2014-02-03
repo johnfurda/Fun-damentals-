@@ -6,6 +6,7 @@ body {
 }
 #header {
     position: relative;
+    width: 100%;
     top: 70px;
     height: 100px;
     width: 100%;
@@ -49,19 +50,24 @@ a {
      text-decoration: none;
      color: white;
 }
-#box1 {
-    position: relative;
-    margin-left: 50%;
-    background-color: #333333;
-    height: 300px;
+#container {
     width: 300px;
+    background-color: #ffcc33;
+    margin: auto;
 }
-#box2 {
-    position: relative;
-    margin-right: 50%;
-    background-color: #333333;
-    height:1800px;
-    width: 300px;
-
+#first {
+    width: 100px;
+    float: left;
+    height: 300px;
+        background-color: blue;
+}
+#second {
+    width: 200px;
+    float: left;
+    height: 300px;
+    background-color: green;
+}
+#clear {
+    clear: both;
 }
 
