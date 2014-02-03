@@ -55,13 +55,13 @@ a {
     background-color: #ffcc33;
     margin: auto;
 }
-#first {
+#box1 {
     width: 100px;
     float: left;
     height: 300px;
         background-color: blue;
 }
-#second {
+#box2 {
     width: 200px;
     float: left;
     height: 300px;
