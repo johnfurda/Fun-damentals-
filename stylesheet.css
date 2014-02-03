@@ -44,7 +44,8 @@ h2 {
 p {
          font-size: 2gm;
          font-family: Arial,tahoma, sans-serif;
-         text-align: center;
+         text-align: right;
+         position: right;
 }
 a {
      text-decoration: none;
