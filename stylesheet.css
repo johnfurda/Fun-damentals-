@@ -37,21 +37,19 @@ li {
 h2 {
     font-family: Arial, Tahoma, sans-serif;
     font-size: 4gm;
-    text-align: right;
-    position: right;
+    text-align: center;
 }
 
 p {
          font-size: 2gm;
          font-family: Arial,tahoma, sans-serif;
-         text-align: right;
-         position: right;
+         text-align: center;
 }
 a {
      text-decoration: none;
      color: white;
 }
-image {
+img {
     position: left;
 }
 
