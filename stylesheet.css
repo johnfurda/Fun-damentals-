@@ -56,7 +56,7 @@ a {
     margin: auto;
 }
 #box1 {
-    width: 50%px;
+    width: 50%;
     float: left;
     height: 300px;
     background-color: blue;
