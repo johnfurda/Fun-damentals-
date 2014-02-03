@@ -50,21 +50,4 @@ a {
      text-decoration: none;
      color: white;
 }
-#container {
-    width: 300px;
-    background-color: #ffcc33;
-    margin: auto;
-}
-#box1 {
-    width: 50%;
-    float: left;
-    height: 300px;
-    background-color: blue;
-}
-#box2 {
-    width: 50%;
-    float: left;
-    height: 300px;
-    background-color: green;
-}
 
