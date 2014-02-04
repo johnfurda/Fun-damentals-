@@ -1,8 +1,5 @@
 body {
-     text-align: center;
      background: black;
-     color: white;
-     font-family: Arial,Tahoma, sans-serif;
 }
 #header {
     position: relative;
@@ -53,7 +50,7 @@ a {
 }
 img {
     position: relative;
-    top: 150px;
+    top: 110px;
     height: 250px;
     width: 250px;
 }
