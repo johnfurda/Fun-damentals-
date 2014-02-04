@@ -5,7 +5,7 @@ body {
     width: 100%;
     height: 100px;
     width: 100%;
-    background-color: #9663300;
+    background-color: #cc0000;
     border-radius: 5px;
 }
 #navbar {
@@ -51,5 +51,5 @@ img {
     top: 110px;
     height: 250px;
     width: 250px;
-    margin: none;
+    margin-right: 50%;
 }
