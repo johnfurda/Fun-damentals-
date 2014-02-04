@@ -37,12 +37,14 @@ h2 {
     font-family: Arial, Tahoma, sans-serif;
     font-size: 4gm;
     text-align: center;
+    color: white;
 }
 
 p {
          font-size: 2gm;
          font-family: Arial,tahoma, sans-serif;
          text-align: center;
+         color: white;
 }
 a {
      text-decoration: none;
@@ -53,4 +55,5 @@ img {
     top: 110px;
     height: 250px;
     width: 250px;
+    margin: none;
 }
