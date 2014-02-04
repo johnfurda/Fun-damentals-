@@ -15,7 +15,7 @@ body {
 }
 #navbar {
     position: fixed;
-    top:60px;
+    top:40px;
     left:50%;
     margin-left:-180px;
 }       
@@ -51,4 +51,7 @@ a {
      text-decoration: none;
      color: white;
 }
-
+img {
+    position: relative;
+    top: 150px;
+}
