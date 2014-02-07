@@ -16,7 +16,7 @@ ul {
     list-style-type: none;
     position: fixed;
 }
-#navbar li {
+#navbar li:first-child {
     display: inline;
     border: 2px solid #000000;
     font-family: Arial, Tahoma, sans-serif;
@@ -25,6 +25,50 @@ ul {
     border-radius: 5px 5px;
     background-color: #330000; 
 }
+#navbar li:nth-child(2) {
+    display: inline;
+    border: 2px solid #000000;
+    font-family: Arial, Tahoma, sans-serif;
+    color: white;
+    padding: 5px;
+    border-radius: 5px 5px;
+    background-color: #330000;
+} 
+#navbar li:nth-child(3) {
+    display: inline;
+    border: 2px solid #000000;
+    font-family: Arial, Tahoma, sans-serif;
+    color: white;
+    padding: 5px;
+    border-radius: 5px 5px;
+    background-color: #330000;
+}  
+#navbar li:nth-child(4) {
+    display: inline;
+    border: 2px solid #000000;
+    font-family: Arial, Tahoma, sans-serif;
+    color: white;
+    padding: 5px;
+    border-radius: 5px 5px;
+    background-color: #330000;
+}            
+#navbar li:nth-child(5) {
+    display: inline;
+    padding:20px;
+    padding-top: 10px;
+} 
+#navbar li:nth-child(6) {
+    display: inline;
+    padding:20px;
+} 
+#navbar li:nth-child(7) {
+    display: inline;
+    padding:20px;
+} 
+#navbar li:nth-child(8) {
+    display: inline;
+    padding:20px;
+} 
 a {
      text-decoration: none;
      color: white;
@@ -54,7 +98,6 @@ a {
 	top: 100px;
 	height:250px;
 	width: 250px;
-	margin-left: 50px;
 }  
 #mission {
 	position: relative;
