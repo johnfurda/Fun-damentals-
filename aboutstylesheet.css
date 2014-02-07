@@ -1,0 +1,78 @@
+body {
+     background: black;
+     text-align: center;
+}
+#header {
+    height: 100px;
+    width: 100%;
+}
+#navbar {
+    position: fixed;
+    top:40px;
+    width: 50%;
+    margin-right: 50%
+}
+ul {
+    list-style-type: none;
+    position: fixed;
+}
+#navbar li {
+    display: inline;
+    border: 2px solid #000000;
+    font-family: Arial, Tahoma, sans-serif;
+    color: white;
+    padding: 5px;
+    border-radius: 5px 5px;
+    background-color: #330000; 
+}
+a {
+     text-decoration: none;
+     color: white;
+}
+#social {
+	position: fixed;
+	top: 15px;
+	width: 50%;
+	margin-left: 50%
+} 
+#social li {
+    display: inline;
+	padding: 5px;
+}  
+#twitter {
+	height: 30px;
+	width: 30px;
+	border-radius: 3px;
+	background-color: black;
+}      
+#google {
+	height: 40px;
+	width: 40px;
+}  
+#logo {
+	position: fixed;
+	top: 100px;
+	height:250px;
+	width: 250px;
+	margin-left: 50px;
+}  
+#mission {
+	position: relative;
+	top: 300px;
+    margin-right: 70px;
+	height: 400px;
+	width: 400px;
+}
+h2 {
+    font-family: Arial, Tahoma, sans-serif;
+    font-size: 4gm;
+    text-align: center;
+    color: white;
+}
+
+p {
+    font-size: 2gm;
+    font-family: Arial,tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}
