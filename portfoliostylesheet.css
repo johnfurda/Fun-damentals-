@@ -1,0 +1,13 @@
+#header {
+	background-color: black;
+	height: 200px;
+	width: 98%;
+	padding: 5px;
+	border-radius: 5px;
+	border: 2px #cc0000;
+
+}
+#logo {
+	height: 100px;
+	width: 100px;
+}

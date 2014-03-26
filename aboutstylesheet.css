@@ -1,18 +1,20 @@
 body {
      background: black;
+     text-align: center;
 }
 #header {
     height: 100px;
-    width: 100%;
+    width: 99.5%;
+    padding: 10px 3px 2px 3px;
 }
 #navbar {
-    position: relative;
-    top:40px;
-    width: 300px
+    display: inline;
+    top: 65px;
+    width: 99%;
 }
 ul {
+    padding: 5px;
     list-style-type: none;
-    position: fixed;
 }
 #navbar li:first-child {
     display: inline;
@@ -51,18 +53,21 @@ ul {
     background-color: #330000;
 }            
 #navbar li:nth-child(5) {
-    padding:20px;
+    display: inline;
+    padding:5px;
     padding-top: 10px;
-    text-align: left;
 } 
 #navbar li:nth-child(6) {
-    padding:20px;
+    display: inline;
+    padding:5px;
 } 
 #navbar li:nth-child(7) {
-    padding:20px;
+    display: inline;
+    padding:5px;
 } 
 #navbar li:nth-child(8) {
-    padding:20px;
+    display: inline;
+    padding:5px;
 } 
 a {
      text-decoration: none;
@@ -79,28 +84,42 @@ a {
 	width: 30px;
 }  
 #logo {
-	position: fixed;
-	top: 100px;
+    display: block;
+	position: relative;
+    margin-left: 160px;
 	height:250px;
 	width: 250px;
 }  
 #mission {
-	position: relative;
-	top: 300px;
+	position: relative; 
     margin-left: 210px;
-	height: 400px;
+    padding: 0px;
+	height: 350px;
 	width: 400px;
 }
 h2 {
     font-family: Arial, Tahoma, sans-serif;
-    font-size: 4gm;
+    font-size: 2gm;
     text-align: center;
     color: white;
 }
 
 p {
-    font-size: 2gm;
+    font-size: 1gm;
     font-family: Arial,tahoma, sans-serif;
     text-align: center;
     color: white;
+}
+#footer {
+    position: relative;
+    margin: 5px;
+    clear:both;
+    height: 50px;
+    width: 99.5%;
+    text-align: center;
+    font-family: Arial,tahoma, sans-serif;
+    font-size: 1gm;
+}
+* {
+    border: dashed #ff6633;
 }
